@@ -11,7 +11,7 @@
 
   ##  Archivo incluido
 
-- `Trabajo_Practico_Integrador.pdf`: Documento completo con teoría, pasos prácticos, código y análisis.
+- `Trabajo Práctico Integrador Programacion 1.pdf`: Documento completo con teoría, pasos prácticos, código y análisis.
 
 ##  Video presentación
 
